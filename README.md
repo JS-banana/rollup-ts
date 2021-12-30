@@ -1,3 +1,3 @@
-# Rollup系列之——构建发布一个支持CommonJS、UMD、ES Module的库
+# rollup-ts
 
-## 背景
+构建发布一个支持CommonJS、UMD、ES Module的库
